@@ -6,18 +6,18 @@ You'll learn to create responsive player mechanics, manage animations, add ragdo
 
 ✅ What You'll Learn
 
-📁 Navigate and understand the Unity sample project structure
-🎮 Configure Unity's Input System for responsive player controls
-🎬 Set up Cinemachine cameras for smooth tracking and transitions
-🧍 Modify and script player prefabs for movement and rotation
-🚀 Create, instantiate, and manage projectiles using physics
-🎯 Build interactive targets and implement particle-based hit effects
-🖥️ Design a functional main menu with scene transitions
-📝 Create and update in-game UI using TextMesh Pro
-🧠 Use the singleton pattern for managing UI across scenes
-🕺 Create animations using Mecanim and control them via scripts
-🧍‍♂️ Toggle between animated and ragdoll physics states
-🔊 Add and script sound effects for immersive gameplay
+-📁 Navigate and understand the Unity sample project structure
+-🎮 Configure Unity's Input System for responsive player controls
+-🎬 Set up Cinemachine cameras for smooth tracking and transitions
+-🧍 Modify and script player prefabs for movement and rotation
+-🚀 Create, instantiate, and manage projectiles using physics
+-🎯 Build interactive targets and implement particle-based hit effects
+-🖥️ Design a functional main menu with scene transitions
+-📝 Create and update in-game UI using TextMesh Pro
+-🧠 Use the singleton pattern for managing UI across scenes
+-🕺 Create animations using Mecanim and control them via scripts
+-🧍‍♂️ Toggle between animated and ragdoll physics states
+-🔊 Add and script sound effects for immersive gameplay
 
 🔧 Tools & Technologies
 
